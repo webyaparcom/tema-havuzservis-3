@@ -1,0 +1,40 @@
+{
+  "id": "5m2wt4p8ku",
+  "name": {
+    "tr": "Projeler",
+    "en": "Projects",
+    "ar": "المشاريع"
+  },
+  "description": {
+    "tr": "Kıyıdan havuz projeleri; görseller temsilîdir.",
+    "en": "Pool projects from the coast; images are representative.",
+    "ar": "مشاريع مسابح من الساحل؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "havuz projesi, galeri",
+    "en": "pool project, gallery",
+    "ar": "مشروع مسبح، معرض"
+  },
+  "path": "referanslar",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "44bawi",
+      "k1pobv"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Projeler",
+    "en": "Projects",
+    "ar": "المشاريع"
+  },
+  "date": "2026-11-16T22:33:35.056Z",
+  "update": "2026-11-16T22:37:09.476Z"
+}

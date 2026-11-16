@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Lagün Atölye: Bodrum’da villa ve butik otel havuzları için yenileme ve sezonluk bakım — taş kenar, mozaik, su dengesi ve pompa dairesi. Demo site; içerik kurgusaldır, görseller temsilîdir.",
+    "en": "Lagün Atölye: renovation and seasonal care for villa and boutique-hotel pools in Bodrum — stone copings, mosaic, water balance and plant rooms. Demo site; content is fictional and images are representative.",
+    "ar": "لاغون أتيليه: تجديد وصيانة موسمية لمسابح الفلل والفنادق الصغيرة في بودروم — حواف حجرية وفسيفساء وتوازن المياه وغرف المضخات. موقع تجريبي؛ المحتوى افتراضي والصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "havuz yenileme, villa havuzu, havuz bakımı, mozaik, taş kenar, Bodrum",
+    "en": "pool renovation, villa pool, pool care, mosaic, stone coping, Bodrum",
+    "ar": "تجديد المسابح، مسبح فيلا، صيانة المسابح، فسيفساء، حافة حجرية، بودروم"
+  },
+  "category": "Kurumsal",
+  "name": "Lagün Atölye",
+  "domain": "havuzservis-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "source-sans-3",
+    "heading": "fraunces",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#2EC4B6",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "8px",
+    "--mx-radius-md": "14px",
+    "--mx-radius-lg": "20px",
+    "--mx-radius-xl": "27px"
+  },
+  "icon": "icon.png"
+}
