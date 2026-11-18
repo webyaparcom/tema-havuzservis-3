@@ -3,17 +3,23 @@
   "name": {
     "tr": "Projeler",
     "en": "Projects",
-    "ar": "المشاريع"
+    "ar": "المشاريع",
+    "de": "Projekte",
+    "ru": "Проекты"
   },
   "description": {
     "tr": "Kıyıdan havuz projeleri; görseller temsilîdir.",
     "en": "Pool projects from the coast; images are representative.",
-    "ar": "مشاريع مسابح من الساحل؛ الصور تمثيلية."
+    "ar": "مشاريع مسابح من الساحل؛ الصور تمثيلية.",
+    "de": "Poolprojekte an der Küste; die Bilder sind symbolisch.",
+    "ru": "Проекты бассейнов на побережье; изображения условные."
   },
   "keyword": {
     "tr": "havuz projesi, galeri",
     "en": "pool project, gallery",
-    "ar": "مشروع مسبح، معرض"
+    "ar": "مشروع مسبح، معرض",
+    "de": "Poolprojekt, Galerie",
+    "ru": "проект бассейна, галерея"
   },
   "path": "referanslar",
   "icon": "photo_library",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Projeler",
     "en": "Projects",
-    "ar": "المشاريع"
+    "ar": "المشاريع",
+    "de": "Projekte",
+    "ru": "Проекты"
   },
   "date": "2026-11-16T22:33:35.056Z",
   "update": "2026-11-16T22:37:09.476Z"

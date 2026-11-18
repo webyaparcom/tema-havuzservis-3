@@ -2,7 +2,9 @@
   "name": {
     "tr": "Atölye",
     "en": "Atelier",
-    "ar": "الأتيليه"
+    "ar": "الأتيليه",
+    "de": "Workshop",
+    "ru": "Воркшоп"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Yenileme ve bakımın altı kulvarı.",
     "en": "The six lanes of renovation and care.",
-    "ar": "المسارات الستة للتجديد والصيانة."
+    "ar": "المسارات الستة للتجديد والصيانة.",
+    "de": "Die sechs Bahnen von Erneuerung und Wartung.",
+    "ru": "Шесть дорожек обновления и обслуживания."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Atölye",
     "en": "Atelier",
-    "ar": "الأتيليه"
+    "ar": "الأتيليه",
+    "de": "Workshop",
+    "ru": "Воркшоп"
   },
   "keyword": {
     "tr": "havuz yenileme, havuz bakımı",
     "en": "pool renovation, pool care",
-    "ar": "تجديد المسابح، صيانة المسابح"
+    "ar": "تجديد المسابح، صيانة المسابح",
+    "de": "Poolsanierung, Poolpflege",
+    "ru": "обновление бассейна, уход за бассейном"
   },
   "text": {},
   "update": "2026-11-16T22:37:09.451Z",
