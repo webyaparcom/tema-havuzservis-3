@@ -4,7 +4,9 @@
       "name": {
         "tr": "Atölye",
         "en": "Atelier",
-        "ar": "الأتيليه"
+        "ar": "الأتيليه",
+        "de": "Workshop",
+        "ru": "Воркшоп"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -25,7 +27,9 @@
       "description": {
         "tr": "Yenileme ve bakımın altı kulvarı.",
         "en": "The six lanes of renovation and care.",
-        "ar": "المسارات الستة للتجديد والصيانة."
+        "ar": "المسارات الستة للتجديد والصيانة.",
+        "de": "Die sechs Bahnen von Erneuerung und Wartung.",
+        "ru": "Шесть дорожек обновления и обслуживания."
       }
     },
     {
@@ -33,12 +37,16 @@
       "name": {
         "tr": "Projeler",
         "en": "Projects",
-        "ar": "المشاريع"
+        "ar": "المشاريع",
+        "de": "Projekte",
+        "ru": "Проекты"
       },
       "description": {
         "tr": "Kıyıdan havuz projeleri; görseller temsilîdir.",
         "en": "Pool projects from the coast; images are representative.",
-        "ar": "مشاريع مسابح من الساحل؛ الصور تمثيلية."
+        "ar": "مشاريع مسابح من الساحل؛ الصور تمثيلية.",
+        "de": "Poolprojekte an der Küste; die Bilder sind symbolisch.",
+        "ru": "Проекты бассейнов на побережье; изображения условные."
       },
       "path": "referanslar",
       "icon": "photo_library",
@@ -58,7 +66,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -79,7 +89,9 @@
       "description": {
         "tr": "Telefon, WhatsApp, e-posta ve atölye saatleri.",
         "en": "Phone, WhatsApp, e-mail and atelier hours.",
-        "ar": "الهاتف وواتساب والبريد وساعات الأتيليه."
+        "ar": "الهاتف وواتساب والبريد وساعات الأتيليه.",
+        "de": "Telefon, WhatsApp, E-Mail und Werkstattzeiten.",
+        "ru": "Телефон, WhatsApp, e-mail и часы работы мастерской."
       }
     }
   ],

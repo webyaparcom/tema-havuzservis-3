@@ -4,12 +4,16 @@
   "description": {
     "tr": "Lagün Atölye: Bodrum’da villa ve butik otel havuzları için yenileme ve sezonluk bakım — taş kenar, mozaik, su dengesi ve pompa dairesi. Demo site; içerik kurgusaldır, görseller temsilîdir.",
     "en": "Lagün Atölye: renovation and seasonal care for villa and boutique-hotel pools in Bodrum — stone copings, mosaic, water balance and plant rooms. Demo site; content is fictional and images are representative.",
-    "ar": "لاغون أتيليه: تجديد وصيانة موسمية لمسابح الفلل والفنادق الصغيرة في بودروم — حواف حجرية وفسيفساء وتوازن المياه وغرف المضخات. موقع تجريبي؛ المحتوى افتراضي والصور تمثيلية."
+    "ar": "لاغون أتيليه: تجديد وصيانة موسمية لمسابح الفلل والفنادق الصغيرة في بودروم — حواف حجرية وفسيفساء وتوازن المياه وغرف المضخات. موقع تجريبي؛ المحتوى افتراضي والصور تمثيلية.",
+    "de": "Lagün Atölye: Renovierung und saisonale Pflege von Pools in Villen und Boutique-Hotels in Bodrum — Steinkanten, Mosaik, Wasserbalance und Pumpenraum. Demo-Seite; Inhalte sind fiktiv, Bilder sind repräsentativ.",
+    "ru": "Lagün Atölye: ремонт и сезонное обслуживание бассейнов в виллах и бутик-отелях Бодрума — каменные кромки, мозаика, баланс воды и насосная. Демо-сайт; контент вымышлен, изображения иллюстративны."
   },
   "keyword": {
     "tr": "havuz yenileme, villa havuzu, havuz bakımı, mozaik, taş kenar, Bodrum",
     "en": "pool renovation, villa pool, pool care, mosaic, stone coping, Bodrum",
-    "ar": "تجديد المسابح، مسبح فيلا، صيانة المسابح، فسيفساء، حافة حجرية، بودروم"
+    "ar": "تجديد المسابح، مسبح فيلا، صيانة المسابح، فسيفساء، حافة حجرية، بودروم",
+    "de": "Poolrenovierung, Villenpool, Poolpflege, Mosaik, Steinkante, Bodrum",
+    "ru": "ремонт бассейна, вилла, обслуживание бассейна, мозаика, каменная кромка, Бодрум"
   },
   "category": "Kurumsal",
   "name": "Lagün Atölye",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,
